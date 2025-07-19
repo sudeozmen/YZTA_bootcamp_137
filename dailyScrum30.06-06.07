@@ -1,0 +1,72 @@
+
+## 🗓️ **June 30 – July 1 Daily Scrum Summary**
+
+**👤 Sude**
+✅ *Ne yaptım:* Proje fikirleri üzerine araştırma yaptım, ilk toplantı için sunum hazırladım.
+📌 *Ne yapacağım:* Takım içi rolleri organize edip dokümantasyon görevini üstleneceğim.
+🚫 *Engel:* MVP kapsamı ve zaman planlaması net değildi.
+
+**👤 Nazlı Hilal**
+✅ *Ne yaptım:* Benzer projeleri analiz ettim, problem tanımını hazırlamaya başladım.
+📌 *Ne yapacağım:* Kullanıcı ihtiyaçları ve çözüm önerileri üzerine çalışacağım.
+🚫 *Engel:* Fikirler arasında karar vermek zaman aldı.
+
+**👤 Muhammed**
+✅ *Ne yaptım:* Streamlit ve Gemini API dokümantasyonlarını inceledim.
+📌 *Ne yapacağım:* API kullanım senaryolarını yazılı hale getireceğim.
+🚫 *Engel:* Belgeler karışıktı, örnek azdı.
+
+**👤 Ahmet**
+✅ *Ne yaptım:* Ses verisi işleme kütüphanelerini araştırdım.
+📌 *Ne yapacağım:* SpeechRecognition örneklerini test edeceğim.
+🚫 *Engel:* Kod ortamı tam kurulu değildi.
+
+---
+
+## 🗓️ **July 2 – July 3 Daily Scrum Summary**
+
+**👤 Sude**
+✅ *Ne yaptım:* Proje özeti ve README yapısına başladım. Trello’ya görev kartları ekledim.
+📌 *Ne yapacağım:* Kullanıcı akışına göre görevleri detaylandıracağım.
+🚫 *Engel:* Bazı görevlerin içerikleri takım içinde netleşmemişti.
+
+**👤 Nazlı Hilal**
+✅ *Ne yaptım:* Kullanıcı hikayeleri ve empati haritası taslağını oluşturdum.
+📌 *Ne yapacağım:* Arayüz yapısına yönelik ilk eskizleri hazırlayacağım.
+🚫 *Engel:* Kullanıcı personası tanımı eksik kaldı.
+
+**👤 Muahammed**
+✅ *Ne yaptım:* .env yapısını ve API bağlantısını test ettim.
+📌 *Ne yapacağım:* Örnek ses girdisiyle test yapacağım.
+🚫 *Engel:* Test verisi henüz hazır değildi.
+
+**👤 Ahmet**
+✅ *Ne yaptım:* Python ile ses kaydı alma işlemini tamamladım.
+📌 *Ne yapacağım:* Kaydı STT ile çözümleyip metne dökeceğim.
+🚫 *Engel:* Ses kaydının formatı ve erişimiyle ilgili teknik sorunlar çıktı.
+
+---
+
+## 🗓️ **July 4 – July 6 Daily Scrum Summary**
+
+**👤 Sude**
+✅ *Ne yaptım:* Trello’da kartlar ve checklist yapıları tamamlandı, proje klasörü yapısı önerildi.
+📌 *Ne yapacağım:* UI taslağını figma üzerinden belirlemeye başlayacağım.
+🚫 *Engel:* Ortak dokümantasyon formatı üzerinde anlaşma gecikti.
+
+**👤 Nazlı Hilal**
+✅ *Ne yaptım:* Kullanıcı yolculuğunu figma’ya aktarmaya başladım.
+📌 *Ne yapacağım:* Kullanıcı test senaryoları için soru önerileri hazırlayacağım.
+🚫 *Engel:* Süre sınırlı olduğundan tüm taslaklar tamamlanamadı.
+
+**👤 Muhammed**
+✅ *Ne yaptım:* Gemini API ile test mesajı üretildi.
+📌 *Ne yapacağım:* Mikrofon verisiyle entegrasyon yapacağım.
+🚫 *Engel:* API yanıtları beklenenden yavaştı.
+
+**👤 Ahmet**
+✅ *Ne yaptım:* STT çıktısı başarıyla elde edildi.
+📌 *Ne yapacağım:* Bu çıktının LLM'e gönderimi için veri formatını ayarlayacağım.
+🚫 *Engel:* Mikrofon donanımı her bilgisayarda aynı çalışmadı.
+
+
