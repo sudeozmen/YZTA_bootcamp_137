@@ -2,71 +2,70 @@
 ## 🗓️ **June 30 – July 1 Daily Scrum Summary**
 
 **👤 Sude**
-✅ *Ne yaptım:* Proje fikirleri üzerine araştırma yaptım, ilk toplantı için sunum hazırladım.
-📌 *Ne yapacağım:* Takım içi rolleri organize edip dokümantasyon görevini üstleneceğim.
-🚫 *Engel:* MVP kapsamı ve zaman planlaması net değildi.
+✅ *What I did:* Researched project ideas and prepared a presentation for the first team meeting.
+📌 *What I will do:* Organize team roles and take responsibility for documentation.
+🚫 *Blockers:* The MVP scope and timeline were not clearly defined.
 
 **👤 Nazlı Hilal**
-✅ *Ne yaptım:* Benzer projeleri analiz ettim, problem tanımını hazırlamaya başladım.
-📌 *Ne yapacağım:* Kullanıcı ihtiyaçları ve çözüm önerileri üzerine çalışacağım.
-🚫 *Engel:* Fikirler arasında karar vermek zaman aldı.
+✅ *What I did:* Analyzed similar projects and started drafting the problem statement.
+📌 *What I will do:* Work on identifying user needs and potential solutions.
+🚫 *Blockers:* It took time to settle on a specific idea among many.
 
 **👤 Muhammed**
-✅ *Ne yaptım:* Streamlit ve Gemini API dokümantasyonlarını inceledim.
-📌 *Ne yapacağım:* API kullanım senaryolarını yazılı hale getireceğim.
-🚫 *Engel:* Belgeler karışıktı, örnek azdı.
+✅ *What I did:* Reviewed documentation on Streamlit and the Gemini API.
+📌 *What I will do:* Draft API usage scenarios.
+🚫 *Blockers:* Documentation was scattered, and there were few working examples.
 
 **👤 Ahmet**
-✅ *Ne yaptım:* Ses verisi işleme kütüphanelerini araştırdım.
-📌 *Ne yapacağım:* SpeechRecognition örneklerini test edeceğim.
-🚫 *Engel:* Kod ortamı tam kurulu değildi.
+✅ *What I did:* Researched audio data processing libraries.
+📌 *What I will do:* Test SpeechRecognition examples.
+🚫 *Blockers:* Development environment was not fully set up yet.
 
 ---
 
 ## 🗓️ **July 2 – July 3 Daily Scrum Summary**
 
 **👤 Sude**
-✅ *Ne yaptım:* Proje özeti ve README yapısına başladım. Trello’ya görev kartları ekledim.
-📌 *Ne yapacağım:* Kullanıcı akışına göre görevleri detaylandıracağım.
-🚫 *Engel:* Bazı görevlerin içerikleri takım içinde netleşmemişti.
+✅ *What I did:* Started writing the project overview and README. Added task cards to Trello.
+📌 *What I will do:* Detail tasks based on the planned user flow.
+🚫 *Blockers:* Some tasks were not clearly defined within the team.
 
 **👤 Nazlı Hilal**
-✅ *Ne yaptım:* Kullanıcı hikayeleri ve empati haritası taslağını oluşturdum.
-📌 *Ne yapacağım:* Arayüz yapısına yönelik ilk eskizleri hazırlayacağım.
-🚫 *Engel:* Kullanıcı personası tanımı eksik kaldı.
+✅ *What I did:* Drafted user stories and an empathy map.
+📌 *What I will do:* Prepare initial sketches for the interface design.
+🚫 *Blockers:* The user persona definition was incomplete.
 
-**👤 Muahammed**
-✅ *Ne yaptım:* .env yapısını ve API bağlantısını test ettim.
-📌 *Ne yapacağım:* Örnek ses girdisiyle test yapacağım.
-🚫 *Engel:* Test verisi henüz hazır değildi.
+**👤 Muhammed**
+✅ *What I did:* Tested the `.env` setup and API connection.
+📌 *What I will do:* Run tests using sample voice input.
+🚫 *Blockers:* Test data was not yet prepared.
 
 **👤 Ahmet**
-✅ *Ne yaptım:* Python ile ses kaydı alma işlemini tamamladım.
-📌 *Ne yapacağım:* Kaydı STT ile çözümleyip metne dökeceğim.
-🚫 *Engel:* Ses kaydının formatı ve erişimiyle ilgili teknik sorunlar çıktı.
+✅ *What I did:* Completed voice recording via Python.
+📌 *What I will do:* Transcribe the audio using STT.
+🚫 *Blockers:* Faced technical issues with audio format and microphone access.
 
 ---
 
 ## 🗓️ **July 4 – July 6 Daily Scrum Summary**
 
 **👤 Sude**
-✅ *Ne yaptım:* Trello’da kartlar ve checklist yapıları tamamlandı, proje klasörü yapısı önerildi.
-📌 *Ne yapacağım:* UI taslağını figma üzerinden belirlemeye başlayacağım.
-🚫 *Engel:* Ortak dokümantasyon formatı üzerinde anlaşma gecikti.
+✅ *What I did:* Finalized Trello cards and checklists, proposed project folder structure.
+📌 *What I will do:* Begin designing the UI layout in Figma.
+🚫 *Blockers:* Delays in aligning on a common documentation format.
 
 **👤 Nazlı Hilal**
-✅ *Ne yaptım:* Kullanıcı yolculuğunu figma’ya aktarmaya başladım.
-📌 *Ne yapacağım:* Kullanıcı test senaryoları için soru önerileri hazırlayacağım.
-🚫 *Engel:* Süre sınırlı olduğundan tüm taslaklar tamamlanamadı.
+✅ *What I did:* Started mapping out the user journey in Figma.
+📌 *What I will do:* Prepare user test questions and scenarios.
+🚫 *Blockers:* Time constraints prevented completion of all drafts.
 
 **👤 Muhammed**
-✅ *Ne yaptım:* Gemini API ile test mesajı üretildi.
-📌 *Ne yapacağım:* Mikrofon verisiyle entegrasyon yapacağım.
-🚫 *Engel:* API yanıtları beklenenden yavaştı.
+✅ *What I did:* Successfully generated a test message using the Gemini API.
+📌 *What I will do:* Integrate microphone input with API workflows.
+🚫 *Blockers:* API responses were slower than expected.
 
 **👤 Ahmet**
-✅ *Ne yaptım:* STT çıktısı başarıyla elde edildi.
-📌 *Ne yapacağım:* Bu çıktının LLM'e gönderimi için veri formatını ayarlayacağım.
-🚫 *Engel:* Mikrofon donanımı her bilgisayarda aynı çalışmadı.
-
+✅ *What I did:* Successfully obtained STT output.
+📌 *What I will do:* Format the output for LLM input.
+🚫 *Blockers:* Microphone compatibility issues across different devices.
 
