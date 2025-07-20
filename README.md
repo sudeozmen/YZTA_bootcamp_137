@@ -115,3 +115,94 @@ This sprint focused on planning, communication, and scope definition. Although n
 
 ---
 
+
+# 📝 2nd Sprint Report – MentalTrack
+
+**Sprint Duration:** July 6 – July 20  
+**Team:** MentalTrack Development Team  
+**Sprint Goal:** Build the initial prototype of the application, focusing on voice input, emotional analysis integration, and basic user interface with Streamlit.
+
+---
+
+## ✅ What We Achieved
+
+### 🎨 Basic Streamlit UI Implemented  
+A simple and intuitive UI was created using Streamlit, allowing users to record voice input and view AI-generated feedback.
+
+### 🎙️ Microphone Integration & Voice Capture  
+Google Speech Recognition API was integrated successfully. Users can now record their voice within the app interface and have it transcribed.
+
+### 🔐 Environment & API Key Management  
+The project was configured to use `.env` files via `python-dotenv` for secure and flexible API key management (Gemini key, etc.).
+
+### 🧠 Gemini API Integration for Emotional Analysis  
+We connected the transcribed text to the Gemini LLM API. Initial emotional analysis and feedback generation was tested with mock inputs.
+
+### 💾 Project Directory & GitHub Repository Setup  
+The GitHub repository was initialized with the core structure of the application, including `app.py`, `requirements.txt`, and environment configuration.
+
+### 📌 Trello Sprint Board Updates  
+The board was updated with Sprint 2 tasks. Progress was tracked through clearly defined "In Progress" and "Done" columns.
+
+---
+
+## 🔢 Estimated Story Points (Sprint 2)
+
+| Task                             | Story Points |
+|----------------------------------|--------------|
+| Set up GitHub project            | 3            |
+| Build basic Streamlit UI         | 5            |
+| Microphone input integration     | 5            |
+| Speech-to-text functionality     | 5            |
+| Gemini API integration           | 8            |
+| Test sample AI responses         | 3            |
+| Environment configuration (.env) | 2            |
+
+**Total Estimated Points:** 31
+
+---
+
+## 🧠 Estimation Logic
+
+We continued using Fibonacci-based story point estimation. Tasks with external APIs (STT, Gemini) were rated higher due to potential complexity and uncertainty.
+
+---
+
+## ✅ Sprint Deliverables
+
+| Deliverable                 | Status     |
+|----------------------------|------------|
+| Streamlit UI               | ✅ Done    |
+| Microphone input           | ✅ Done    |
+| Speech-to-text working     | ✅ Done    |
+| Gemini API connected       | ✅ Done    |
+| Voice-to-feedback pipeline | ✅ Basic version complete |
+| GitHub repo structure      | ✅ Done    |
+
+---
+
+## 🔁 Sprint Retrospective
+
+### ✅ What went well:
+- Core components were successfully integrated  
+- GitHub workflow improved team collaboration  
+- Basic emotional feedback was meaningful
+
+### ⚠️ What could improve:
+- Error handling for STT and API calls needs enhancement  
+- More test cases needed for various emotional tones
+
+### 💡 Suggestions for Next Sprint:
+- Add loading animations and error messages in UI  
+- Improve AI feedback formatting  
+- Store user feedback locally (SQLite or file-based for MVP)
+
+---
+
+## 🚀 Goals for Sprint 3 (July 20 – August 3)
+- Improve feedback quality and tone detection  
+- Add sentiment classification (positive, negative, neutral)  
+- Store input and feedback as daily logs  
+- Add export/download option for user logs  
+- Polish UI for better UX
+
