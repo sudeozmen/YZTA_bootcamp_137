@@ -1,0 +1,76 @@
+# 🧠 MentalTrack – Sprint 2 Daily Scrum Summaries  
+🗓️ *Period: July 6 – July 20*
+
+---
+
+## 🗓️ **July 6 – July 10 Daily Scrum Summary**
+
+**👤 Sude**  
+✅ *What I did:* Set up GitHub repository and created initial project folder structure.  
+📌 *What I will do:* Work on README updates and define contribution guidelines.  
+🚫 *Blockers:* Conflicts in deciding final directory naming conventions.
+
+**👤 Nazlı Hilal**  
+✅ *What I did:* Designed first UI prototype screens in Figma.  
+📌 *What I will do:* Share the design with the team and gather feedback.  
+🚫 *Blockers:* Some visual components lacked team consensus.
+
+**👤 Muhammed**  
+✅ *What I did:* Integrated microphone input with Streamlit interface.  
+📌 *What I will do:* Start connecting microphone output to the speech-to-text module.  
+🚫 *Blockers:* Streamlit session state limitations caused input lag.
+
+**👤 Ahmet**  
+✅ *What I did:* Improved STT accuracy by experimenting with different audio formats.  
+📌 *What I will do:* Begin formatting transcribed text for LLM processing.  
+🚫 *Blockers:* Inconsistent STT results under noisy conditions.
+
+---
+
+## 🗓️ **July 11 – July 15 Daily Scrum Summary**
+
+**👤 Sude**  
+✅ *What I did:* Updated documentation structure and drafted contributing guidelines.  
+📌 *What I will do:* Assist with LLM prompt design and UI text content.  
+🚫 *Blockers:* Ongoing changes in UI flow affected documentation sync.
+
+**👤 Nazlı Hilal**  
+✅ *What I did:* Finalized UI layout for MVP and added it to the repository.  
+📌 *What I will do:* Design feedback screen for AI-generated emotional analysis.  
+🚫 *Blockers:* Some elements were not supported in Streamlit’s UI capabilities.
+
+**👤 Muhammed**  
+✅ *What I did:* Connected STT output to Gemini API prompt.  
+📌 *What I will do:* Parse and display AI response in the UI.  
+🚫 *Blockers:* Gemini API sometimes returned incomplete outputs.
+
+**👤 Ahmet**  
+✅ *What I did:* Added error handling to STT module and optimized input flow.  
+📌 *What I will do:* Support integration with front-end results panel.  
+🚫 *Blockers:* Latency issues due to slow network during API calls.
+
+---
+
+## 🗓️ **July 16 – July 20 Daily Scrum Summary**
+
+**👤 Sude**  
+✅ *What I did:* Revised README to reflect actual system architecture and flow.  
+📌 *What I will do:* Work on project presentation slides.  
+🚫 *Blockers:* Team availability varied, making collaboration asynchronous.
+
+**👤 Nazlı Hilal**  
+✅ *What I did:* Final polish on Figma UI and exported assets for integration.  
+📌 *What I will do:* Document user testing feedback plan.  
+🚫 *Blockers:* Limited time for testing due to final integration phase.
+
+**👤 Muhammed**  
+✅ *What I did:* Successfully displayed AI emotional feedback in the app.  
+📌 *What I will do:* Test app stability across devices.  
+🚫 *Blockers:* Streamlit UI refresh caused occasional loss of session.
+
+**👤 Ahmet**  
+✅ *What I did:* Cleaned up transcribed text and preprocessed it for Gemini input.  
+📌 *What I will do:* Collaborate on app demo video script.  
+🚫 *Blockers:* Compatibility issues on mobile browsers for microphone usage.
+
+---
