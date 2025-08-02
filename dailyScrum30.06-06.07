@@ -1,0 +1,71 @@
+
+## 🗓️ **June 30 – July 1 Daily Scrum Summary**
+
+**👤 Sude**
+✅ *What I did:* Researched project ideas and prepared a presentation for the first team meeting.
+📌 *What I will do:* Organize team roles and take responsibility for documentation.
+🚫 *Blockers:* The MVP scope and timeline were not clearly defined.
+
+**👤 Nazlı Hilal**
+✅ *What I did:* Analyzed similar projects and started drafting the problem statement.
+📌 *What I will do:* Work on identifying user needs and potential solutions.
+🚫 *Blockers:* It took time to settle on a specific idea among many.
+
+**👤 Muhammed**
+✅ *What I did:* Reviewed documentation on Streamlit and the Gemini API.
+📌 *What I will do:* Draft API usage scenarios.
+🚫 *Blockers:* Documentation was scattered, and there were few working examples.
+
+**👤 Ahmet**
+✅ *What I did:* Researched audio data processing libraries.
+📌 *What I will do:* Test SpeechRecognition examples.
+🚫 *Blockers:* Development environment was not fully set up yet.
+
+---
+
+## 🗓️ **July 2 – July 3 Daily Scrum Summary**
+
+**👤 Sude**
+✅ *What I did:* Started writing the project overview and README. Added task cards to Trello.
+📌 *What I will do:* Detail tasks based on the planned user flow.
+🚫 *Blockers:* Some tasks were not clearly defined within the team.
+
+**👤 Nazlı Hilal**
+✅ *What I did:* Drafted user stories and an empathy map.
+📌 *What I will do:* Prepare initial sketches for the interface design.
+🚫 *Blockers:* The user persona definition was incomplete.
+
+**👤 Muhammed**
+✅ *What I did:* Tested the `.env` setup and API connection.
+📌 *What I will do:* Run tests using sample voice input.
+🚫 *Blockers:* Test data was not yet prepared.
+
+**👤 Ahmet**
+✅ *What I did:* Completed voice recording via Python.
+📌 *What I will do:* Transcribe the audio using STT.
+🚫 *Blockers:* Faced technical issues with audio format and microphone access.
+
+---
+
+## 🗓️ **July 4 – July 6 Daily Scrum Summary**
+
+**👤 Sude**
+✅ *What I did:* Finalized Trello cards and checklists, proposed project folder structure.
+📌 *What I will do:* Begin designing the UI layout in Figma.
+🚫 *Blockers:* Delays in aligning on a common documentation format.
+
+**👤 Nazlı Hilal**
+✅ *What I did:* Started mapping out the user journey in Figma.
+📌 *What I will do:* Prepare user test questions and scenarios.
+🚫 *Blockers:* Time constraints prevented completion of all drafts.
+
+**👤 Muhammed**
+✅ *What I did:* Successfully generated a test message using the Gemini API.
+📌 *What I will do:* Integrate microphone input with API workflows.
+🚫 *Blockers:* API responses were slower than expected.
+
+**👤 Ahmet**
+✅ *What I did:* Successfully obtained STT output.
+📌 *What I will do:* Format the output for LLM input.
+🚫 *Blockers:* Microphone compatibility issues across different devices.
+
