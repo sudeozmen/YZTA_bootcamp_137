@@ -206,3 +206,62 @@ We continued using Fibonacci-based story point estimation. Tasks with external A
 - Add export/download option for user logs  
 - Polish UI for better UX
 
+
+
+## 📝 3rd Sprint Report – NeuroScan AI (Alzheimer MRI Classification)  
+**Sprint Duration:** July 20 – August 3  
+**Team:** MentalTrack Development Team  
+**Sprint Goal:** Transition the project focus to develop an AI-powered Alzheimer diagnosis system using MRI scans and deliver a working prototype with core features.
+
+---
+
+### ✅ What We Achieved
+
+🔄 **Project Pivot to Alzheimer MRI Classification**  
+We shifted our project from MentalTrack emotional journaling to NeuroScan AI, focusing on AI-based Alzheimer detection via MRI images. This pivot was motivated by the team's interest and emerging domain relevance.
+
+🧑‍💻 **User Authentication & Database Management**  
+Implemented secure user registration, login, and session state management with SQLite backend.
+
+🧠 **AI Model Integration for MRI Classification**  
+Integrated a pretrained ResNet deep learning model that classifies MRI images into Alzheimer stages with ~93% accuracy.
+
+📊 **Report Generation & Storage**  
+Developed functionality to generate visual diagnostic reports, save them per user with timestamps, and store file paths in the database.
+
+🕰️ **Historical MRI Report Listing**  
+Enabled users to view all their past MRI classification reports with thumbnails and timestamps, improving user experience and follow-up.
+
+---
+
+### 🔢 Estimated Story Points (Sprint 3)
+
+| Task                                    | Story Points |
+|-----------------------------------------|--------------|
+| Project pivot & planning                 | 5            |
+| User authentication & session management| 5            |
+| AI model integration & inference        | 8            |
+| Report generation & file saving         | 5            |
+| Historical report listing UI             | 5            |
+| Database schema updates                  | 3            |
+| Testing and bug fixes                    | 3            |
+| **Total Estimated Points**               | **34**       |
+
+---
+
+### 🔁 Sprint Retrospective
+
+✅ **What went well:**  
+- Successful transition to new project focus with clear team alignment  
+- Stable implementation of user management and session persistence  
+- Accurate AI classification with explainable Grad-CAM visualizations  
+
+⚠️ **What could improve:**  
+- Code modularity and documentation could be enhanced  
+- Error handling and input validation need strengthening  
+- UI responsiveness on various screen sizes  
+
+---
+
+### 🚀 Delivery Summary  
+We have delivered a fully functional NeuroScan AI prototype capable of classifying Alzheimer's stages from MRI scans, with user account management and historical report tracking. The system is ready for deployment and user testing.
